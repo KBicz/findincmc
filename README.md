@@ -1,11 +1,11 @@
 # findinc_mc
 Python code to estimate the inclination angle of the star using MC.
   
-  Program findinc_mc.py for Linux, MacOS, and Windows written by K. Bicz, ver. of Apr. 19, 2023.
-  Estimate inclination angle of the star using its parameters and monte-carlo methods.
+      Program findinc_mc.py for Linux, MacOS, and Windows written by K. Bicz, ver. of Apr. 19, 2023.
+      Estimate inclination angle of the star using its parameters and monte-carlo methods.
 
-  Usage: findinc_mc.py [-vsini=float] [-verr=float] [-prot=float] [-perr=float] [-rad=float] [-rerr=float]
-         [-ntrials=int] [--plot]
+      Usage: findinc_mc.py [-vsini=float] [-verr=float] [-prot=float] [-perr=float] [-rad=float] [-rerr=float]
+             [-ntrials=int] [--plot]
 
          option -vsini : vsin(i) of the star (default vsini = 170 km/s).
                 -verr : uncertainty of vsin(i) of the star (default verr = 17 km/s).
