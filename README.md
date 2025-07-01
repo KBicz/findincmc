@@ -1,5 +1,5 @@
 # findinc_mc
-Python code to estimate the inclination angle of the star using MC. The simplest usage of this code is just typing its name in terminal or with the --plot key: findinc_mc.py --plot
+Python code to estimate the inclination angle of the star using MC. If you find this code useful and you use it in your data analysis please cite this paper [Bicz et al. 2024]([https://iopscience.iop.org/article/10.3847/1538-4357/ac7ab3](https://www.aanda.org/articles/aa/full_html/2024/02/aa47901-23/aa47901-23.html)) The simplest usage of this code is just typing its name in terminal or with the --plot key: findinc_mc.py --plot
   
       Program findinc_mc.py for Linux, MacOS, and Windows written by K. Bicz, ver. of Apr. 19, 2023.
       Estimate inclination angle of the star using its parameters and monte-carlo methods.
